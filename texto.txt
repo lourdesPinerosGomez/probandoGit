@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-esto es un texto.pero tambien modifico el clon
-
-
-=======
-esto es un texto.modificado original
->>>>>>> origin
+holi
