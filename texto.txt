@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-esto es un texto.pero tambien modifico el original
-=======
-esto es un texto.ahora lo modifico desde el clon
->>>>>>> refs/remotes/origin/master
+esto es un texto.modificado original
