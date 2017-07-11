@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 te quiero.ruben coño dime algo!!
+=======
+te quiero.quieres ser mi novio?
+>>>>>>> refs/remotes/origin/master
