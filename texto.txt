@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+holi,no sé por que no me funciona
+=======
 holi.modificando
+>>>>>>> 52462c45b498acea78165768953e2ef051fcd106
